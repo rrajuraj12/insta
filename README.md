@@ -1,2 +1,1 @@
-# insta
-Instagram Story Downloader
+Dowmate's Story Saver is a user-friendly application that allows you to download Instagram stories to your device anonymously. This tool is perfect for saving stories for future viewing, reposting, or sharing with friends. Compatible with Windows, Mac, iPhone, and Android devices, it lets you add stories to your media library without limitations. Enjoy the freedom to download and save as many Instagram stories as you like! For more information and to access the Story Saver, visit Dowmate's official website.
